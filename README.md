@@ -19,6 +19,10 @@
 [![CSS](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=2E64FE)](#)
 [![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=FFFF00)](#)
 
+## 📝 Licença
+
+> Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+
 ## ✨Sobre o FoodEx.
 > Site fictício de restaurantes.
 
